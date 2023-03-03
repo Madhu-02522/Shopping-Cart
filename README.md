@@ -1,2 +1,2 @@
 # Shopping-Cart
-Repository for my Shopping cart
+Repository for my shopping cart
